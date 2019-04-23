@@ -14,3 +14,27 @@ h1, h2, h3 ,h4 ,h5 ,h6 {
 .bg-primary {
 	background-color: #64756f !important;
 }
+
+.social-icons a:hover {
+  background-color: #64756f;
+}
+
+.dev-icons .list-inline-item i:hover {
+  color: #64756f;
+}
+
+#sideNav .navbar-toggler:focus {
+  outline-color: #64756f;
+}
+
+.text-primary {
+  color: #824444 !important;
+}
+
+a {
+  color: #824444;
+}
+
+a:hover, a:focus, a:active {
+  color: #824444;
+}
