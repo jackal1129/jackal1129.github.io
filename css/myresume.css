@@ -28,13 +28,13 @@ h1, h2, h3 ,h4 ,h5 ,h6 {
 }
 
 .text-primary {
-  color: #824444 !important;
+  color: #703721 !important;
 }
 
 a {
-  color: #824444;
+  color: #703721;
 }
 
 a:hover, a:focus, a:active {
-  color: #824444;
+  color: #703721;
 }
